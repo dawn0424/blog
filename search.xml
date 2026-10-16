@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<search>
+  <entry>
+    <title>你好，01纪元</title>
+    <url>/blog/2026/10/16/%E6%88%91%E7%9A%84%E7%AC%AC%E4%B8%80%E7%AF%87%E5%8D%9A%E5%AE%A2/</url>
+    <content><![CDATA[<blockquote>
+<p>记录每一次 debug，迎接每一次 dawn。</p>
+</blockquote>
+<p>这是 <strong>dawn的01纪元</strong> 的第一篇文章。开篇就写点实在的：这个博客是怎么搭的，以及之后怎么写。</p>
+<h2 id="这个博客是怎么来的"><a href="#这个博客是怎么来的" class="headerlink" title="这个博客是怎么来的"></a>这个博客是怎么来的</h2><p>技术栈很朴素：</p>
+<table>
+<thead>
+<tr>
+<th>部分</th>
+<th>用了什么</th>
+</tr>
+</thead>
+<tbody><tr>
+<td>静态站点框架</td>
+<td>Hexo 8</td>
+</tr>
+<tr>
+<td>主题</td>
+<td>Butterfly 5.7</td>
+</tr>
+<tr>
+<td>托管</td>
+<td>GitHub Pages</td>
+</tr>
+<tr>
+<td>写作格式</td>
+<td>Markdown</td>
+</tr>
+</tbody></table>
+<p>搭建过程中最折腾的不是 Hexo，而是<strong>网络</strong>：本机把 <code>github.com</code> 解析到了一个不可用的 IP（DNS 污染），命令行和 GitHub Desktop 都连不上，只有浏览器能开。最后的解法是给 git 指定可用 IP，再用 OAuth 设备码完成授权。</p>
+<h2 id="以后怎么写文章"><a href="#以后怎么写文章" class="headerlink" title="以后怎么写文章"></a>以后怎么写文章</h2><p>三步：</p>
+<figure class="highlight bash"><table><tr><td class="code"><pre><span class="line"><span class="built_in">cd</span> ~/Documents/deepseek-harness/default-workspace/blog   <span class="comment"># 进入博客目录</span></span><br><span class="line">npx hexo new <span class="string">&quot;文章标题&quot;</span>                                   <span class="comment"># 1. 新建文章</span></span><br><span class="line"><span class="comment">#                                                        2. 用编辑器写 Markdown</span></span><br><span class="line">./deploy.sh                                              <span class="comment"># 3. 一键发布</span></span><br></pre></td></tr></table></figure>
+
+<p>文章文件会生成在 <code>source/_posts/</code> 目录下，用任何 Markdown 编辑器（VS Code、Typora、Obsidian 都行）打开就能写。</p>
+<h2 id="Markdown-常用语法速查"><a href="#Markdown-常用语法速查" class="headerlink" title="Markdown 常用语法速查"></a>Markdown 常用语法速查</h2><p><strong>加粗</strong>、<em>斜体</em>、<code>行内代码</code>、<a href="https://hexo.io/">链接</a>。</p>
+<p>有序列表：</p>
+<ol>
+<li>第一步</li>
+<li>第二步</li>
+<li>第三步</li>
+</ol>
+<p>无序列表：</p>
+<ul>
+<li>苹果</li>
+<li>香蕉</li>
+<li>橘子</li>
+</ul>
+<p>代码块（写语言名会有高亮）：</p>
+<figure class="highlight python"><table><tr><td class="code"><pre><span class="line"><span class="keyword">def</span> <span class="title function_">greet</span>(<span class="params">name: <span class="built_in">str</span></span>) -&gt; <span class="built_in">str</span>:</span><br><span class="line">    <span class="keyword">return</span> <span class="string">f&quot;Hello, <span class="subst">&#123;name&#125;</span>!&quot;</span></span><br><span class="line"></span><br><span class="line"><span class="built_in">print</span>(greet(<span class="string">&quot;dawn&quot;</span>))</span><br></pre></td></tr></table></figure>
+
+<p>引用：</p>
+<blockquote>
+<p>先让它跑起来，再让它跑得漂亮。</p>
+</blockquote>
+<h2 id="一个踩坑提醒"><a href="#一个踩坑提醒" class="headerlink" title="一个踩坑提醒"></a>一个踩坑提醒</h2><p>文章开头 <code>---</code> 包起来的部分叫 <strong>front-matter</strong>，用来填标题、日期、标签、分类。注意两点：</p>
+<ol>
+<li>冒号后面<strong>要有一个空格</strong>，<code>title: 你好</code> 是对的，<code>title:你好</code> 会报错</li>
+<li>标签写成列表形式：</li>
+</ol>
+<figure class="highlight yaml"><table><tr><td class="code"><pre><span class="line"><span class="attr">tags:</span></span><br><span class="line">  <span class="bullet">-</span> <span class="string">Hexo</span></span><br><span class="line">  <span class="bullet">-</span> <span class="string">开始</span></span><br></pre></td></tr></table></figure>
+
+<h2 id="接下来"><a href="#接下来" class="headerlink" title="接下来"></a>接下来</h2><p>这个站点还会继续折腾：评论系统、自定义域名、更多的文章。</p>
+<p>第一篇就到这里，祝自己写得长久 🌱</p>
+]]></content>
+      <categories>
+        <category>随笔</category>
+      </categories>
+      <tags>
+        <tag>Hexo</tag>
+        <tag>开始</tag>
+      </tags>
+  </entry>
+</search>
