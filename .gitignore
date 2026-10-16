@@ -7,3 +7,6 @@ public/
 .deploy*/
 _multiconfig.yml
 .npm-cache/
+.gh-config/
+_config.deploy.yml
+deploy.sh
