@@ -69,10 +69,10 @@ default_top_img: /img/dawn-banner.jpg
 index_img: /img/dawn-banner.jpg
 
 # The banner image of archive page
-archive_img /img/dawn-banner.jpg
+archive_img: /img/dawn-banner.jpg
 
 # Note: tag page, not tags page
-tag_img /img/dawn-banner.jpg
+tag_img: /img/dawn-banner.jpg
 
 # The banner image of tag page, you can set the banner image for each tag
 # Format:
@@ -80,7 +80,7 @@ tag_img /img/dawn-banner.jpg
 tag_per_img:
 
 # Note: category page, not categories page
-category_img /img/dawn-banner.jpg
+category_img: /img/dawn-banner.jpg
 
 # The banner image of category page, you can set the banner image for each category
 # Format:
