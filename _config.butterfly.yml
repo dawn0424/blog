@@ -56,8 +56,8 @@ social:
 favicon: /img/favicon.png
 
 avatar:
-  img: /img/butterfly-icon.png
-  effect: false
+  img: /img/avatar.jpg
+  effect: true
 
 # Disable all banner images
 disable_top_img: false
@@ -284,15 +284,15 @@ aside:
     category: true
   card_author:
     enable: true
-    description:
+    description: 记录每一次 debug，迎接每一次 dawn
     button:
       enable: true
       icon: fab fa-github
-      text: Follow Me
-      link: https://github.com/xxxxxx
+      text: 关注我
+      link: https://github.com/dawn0424
   card_announcement:
     enable: true
-    content: This is my Blog
+    content: 欢迎来到 dawn的01纪元 🌱 这里记录我的学习与踩坑日常。
   card_recent_post:
     enable: true
     # If set 0 will show all
