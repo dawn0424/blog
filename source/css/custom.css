@@ -1,0 +1,75 @@
+/* ============================================================
+   自定义样式 —— 金黄日出主题适配
+   由 DSH 生成，可自由修改后运行 ./deploy.sh 生效
+   ============================================================ */
+
+/* --- 1. 大图上压了一层深色遮罩 + 文字投影 ---------------
+   原因：文章页的元信息（日期/字数/分类）压在大图的明亮
+   日出区域上，原颜色对比度不足，几乎看不清。        */
+
+/* 首页大图：轻微压暗，让底部标题与向下箭头更清晰 */
+#page-header.full_page::before {
+  background: rgba(20, 14, 8, 0.22);
+}
+
+/* 文章/归档/标签/分类页大图：稍微压暗一点 */
+#page-header:not(.full_page)::before {
+  background: rgba(20, 14, 8, 0.32);
+}
+
+/* 大图上的所有文字加投影，保证任何背景都能读清 */
+#page-header .post-title,
+#page-header #site-title,
+#page-header #site-subtitle,
+#page-header #post-info,
+#page-header #post-info * {
+  text-shadow: 0 1px 4px rgba(0, 0, 0, 0.55), 0 0 12px rgba(0, 0, 0, 0.35);
+}
+
+/* 文章页元信息改为白色（原来是琥珀金，压亮底上不可读） */
+#page-header #post-info .post-meta,
+#page-header #post-info .post-meta a,
+#page-header #post-info .post-meta time,
+#page-header #post-info .post-meta span {
+  color: rgba(255, 255, 255, 0.94);
+}
+
+#page-header #post-info .post-meta i {
+  color: rgba(255, 255, 255, 0.82);
+}
+
+/* 文章页元信息里的分隔线也调亮 */
+#page-header #post-info .post-meta-separator {
+  color: rgba(255, 255, 255, 0.55);
+}
+
+/* --- 2. 首页大图高度收窄 ---------------------------------
+   原来 100vh 会占满首屏，文章列表被挤到折叠线以下。
+   桌面端收到 78vh；移动端保持较高比例以保留画面构图。 */
+@media screen and (min-width: 768px) {
+  #page-header.full_page {
+    height: 78vh !important;
+  }
+}
+
+/* 向下箭头位置随高度调整 */
+#page-header.full_page #scroll-down {
+  bottom: 12px;
+}
+
+/* --- 3. 页脚配色与金黄主题统一 --------------------------- */
+#footer {
+  background: linear-gradient(135deg, #e0961a, #f0b429);
+}
+
+#footer,
+#footer a,
+#footer .copyright,
+#footer .framework-info {
+  color: rgba(255, 255, 255, 0.95);
+}
+
+#footer a:hover {
+  color: #fff;
+  text-decoration: underline;
+}
