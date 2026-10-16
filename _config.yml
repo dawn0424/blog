@@ -105,3 +105,10 @@ deploy:
   type: git
   repo: https://github.com/dawn0424/blog.git
   branch: gh-pages
+
+# Local Search (hexo-generator-searchdb)
+search:
+  path: search.xml
+  field: post
+  content: true
+  format: html
