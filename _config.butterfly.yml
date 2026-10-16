@@ -762,20 +762,20 @@ site_verification:
 
 theme_color:
   enable: true
-  # 曙光色（dawn）—— 暖橙 / 珊瑚 / 蜜桃金
-  main: "#ff8a3d"
-  paginator: "#ffa45e"
-  button_hover: "#ffb877"
-  text_selection: "#ffc98f"
-  link_color: "#ff8a3d"
-  meta_color: "#9c8b7d"
-  hr_color: "#ffdcb0"
-  code_foreground: "#e5673a"
-  code_background: "rgba(255, 138, 61, .12)"
-  toc_color: "#ff9a4d"
-  blockquote_padding_color: "#ff8a3d"
-  blockquote_background_color: "#ff8a3d"
-  scrollbar_color: "#ffa45e"
+  # 金黄日出（dawn）—— 文字类用琥珀金保证可读，装饰类用亮金强化日光感
+  main: "#e0961a"
+  paginator: "#f0b429"
+  button_hover: "#ffc93c"
+  text_selection: "#ffe08a"
+  link_color: "#c98a1e"
+  meta_color: "#a8946f"
+  hr_color: "#ffe9a8"
+  code_foreground: "#c9781e"
+  code_background: "rgba(240, 180, 41, .14)"
+  toc_color: "#f0b429"
+  blockquote_padding_color: "#f0b429"
+  blockquote_background_color: "#f0b429"
+  scrollbar_color: "#f0b429"
   meta_theme_color_light: "#fff8f2"
   meta_theme_color_dark: "#1a1410"
 
