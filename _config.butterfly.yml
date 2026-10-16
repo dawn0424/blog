@@ -763,19 +763,19 @@ site_verification:
 theme_color:
   enable: true
   # 曙光色（dawn）—— 暖橙 / 珊瑚 / 蜜桃金
-  main: "#ffab5e"
-  paginator: "#ffc178"
-  button_hover: "#ffd08a"
-  text_selection: "#ffc178"
-  link_color: "#ffb26b"
-  meta_color: "#c4a894"
-  hr_color: "#ffe8c2"
-  code_foreground: "#ffc178"
-  code_background: "rgba(255, 171, 94, .16)"
-  toc_color: "#ffd08a"
-  blockquote_padding_color: "#ffab5e"
-  blockquote_background_color: "#ffab5e"
-  scrollbar_color: "#ffc178"
+  main: "#ff8a3d"
+  paginator: "#ffa45e"
+  button_hover: "#ffb877"
+  text_selection: "#ffc98f"
+  link_color: "#ff8a3d"
+  meta_color: "#9c8b7d"
+  hr_color: "#ffdcb0"
+  code_foreground: "#e5673a"
+  code_background: "rgba(255, 138, 61, .12)"
+  toc_color: "#ff9a4d"
+  blockquote_padding_color: "#ff8a3d"
+  blockquote_background_color: "#ff8a3d"
+  scrollbar_color: "#ffa45e"
   meta_theme_color_light: "#fff8f2"
   meta_theme_color_dark: "#1a1410"
 
@@ -810,7 +810,7 @@ preloader:
 enter_transitions: true
 
 # Default display mode - light (default) / dark
-display_mode: dark
+display_mode: light
 
 # Configuration for beautifying the content of the article
 beautify:
