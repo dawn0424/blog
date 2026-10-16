@@ -47,6 +47,8 @@ code_blocks:
 #   icon: link || the description || color
 social:
   fab fa-github: https://github.com/dawn0424 || Github || '#24292e'
+  fab fa-zhihu: https://www.zhihu.com/people/dawn-25-21-15 || 知乎 || '#0084FF'
+  fab fa-bilibili: https://space.bilibili.com/649118160 || Bilibili || '#00A1D6'
   fas fa-envelope: mailto:2026214129@bupt.cn || Email || '#4a7dbe'
 
 # --------------------------------------
