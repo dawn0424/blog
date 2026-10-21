@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="utf-8"?>
+<search>
+  <entry>
+    <title>dawn的人生新章</title>
+    <url>/blog/2026/10/16/dawn-new-chapter/</url>
+    <content><![CDATA[<h2 id="聊聊dawn"><a href="#聊聊dawn" class="headerlink" title="聊聊dawn"></a>聊聊dawn</h2><p>作者是一名北邮信科的学生，因为情场受挫（bushi），在众多大学中选择了最远的一个，想要开启全新的生活。作者在前18年的生活中从未想过学计算机，更不曾想会往进大厂的方向去走。作者从小到大都不会玩游戏，玩啥输啥，渐渐作者彻底放弃了游戏。每次课间听同学们激情聊什么内存什么配置啥的作者完全融不进去。因此作者在前18年一直认定我不会是一个有天赋的计算机学生，小时候期盼可以从事艺术类的工作，长大一点发现艺术这玩意实在是喂不起自己，然后恰巧作者在当地最厉害的初中最厉害的班上的某次物理考中成为了唯一一个上90的女生，然后碰巧的碰巧作者的物理老师都很帅而且很厉害，作者就想着去干点工科的什么。</p>
+<p>我的高考发挥的一般般吧，当时摆在我面前的大概是五条路：1.冲冲成电海南 2.北邮海南 3.对外经贸本部学精算或者财会 4.武汉理工 5.中农人工智能。作者的分1够不到，35后来出分正好和我的一模一样，4作者亏分太多不想去，2听说就业很好作者就来了。在此作者必须夸赞一下我的妈妈，从我进入高三开始，每天听各种报志愿的讲座，从650到550每一个分数段的最好去向都给整理的清清白白，生怕浪费一点点我努力来的分。当时作者其实也不愿意读中外，因为40万的学费确实是……可是我妈妈力排众议，告诉我只要我想就可以。当时作者也有幸和几位从事于不同行业的大佬们聊了聊，一位金融行业的大佬一句话让我明确了方向「你想搞金融赚钱你得先会技术啊，你会技术你可以随时转金融，但反过来很难。」一瞬间作者坚定了来北邮的决心。</p>
+<p>现在想想还是很drama，一个喜欢物理，数学一般般，还曾比较排斥计算机的人，学了信息与计算科学。既来之则安之，作者在疯玩了几个月后的开学前夕下定决心要读出个名堂来。作者当时在高中校墙捞学长学姐，让作者捞到了北京本校的学长（学长顺手牵羊给我拉北京群里了，一群清北大佬在群里活跃，作者默默潜水），<strong>然后</strong>，学长给我推了海南校区的学长（当时作者还没有意识到自己有多幸运）。学长是上一届超级超级厉害的大佬（虽然和我不是一个专业…………可惜没早点认识学长，要不我肯定也去树莓不来信计了）每天和学长聊天都感觉灵魂得到了升华，对各种比赛项目实习什么的有了全新的认知（应该不会被保研机构骗了），了解到很多新奇的玩意（像codex 洛谷 包括GitHub，也是学长鼓励来谢谢博客锻炼自己）。感觉在学长的带领下，在我逐步跟着尝试的过程中，我好像有点喜欢计算机了。听说一个优秀的专业大佬总是孤独的，是自己熬大夜去解决debug的，作者因此将笔名定为<strong>01纪元守夜人</strong>去解决每一个debug，拥抱每一次dawn</p>
+<h2 id="聊聊知乎上github的大一使用指南"><a href="#聊聊知乎上github的大一使用指南" class="headerlink" title="聊聊知乎上github的大一使用指南"></a>聊聊知乎上github的大一使用指南</h2><h3 id="大一使用方法"><a href="#大一使用方法" class="headerlink" title="大一使用方法"></a>大一使用方法</h3><ol>
+<li>给作业&amp;练习建仓，写清楚注释和readme（校内作业&amp;leetcode）</li>
+<li>给自己写的小玩意建个仓</li>
+<li>用git来储存笔记</li>
+<li>尝试读懂项目复现项目</li>
+<li>建个博客记录生活</li>
+</ol>
+<p>对于全阶段使用指南我看到最好的 <a href="https://www.zhihu.com/question/11379810074/answer/1939628372922708504?utm_psn=2095294923117536965">GitHub各个阶段使用方法</a></p>
+<p>这篇文章中的总结是这样的：</p>
+<blockquote>
+<ul>
+<li><strong>在大一</strong>，用它来备份你的无知和探索</li>
+<li><strong>在大二</strong>，用它来窥见大神们的智慧</li>
+<li><strong>在大三</strong>，用它来小试牛刀，发出你自己的声音</li>
+<li><strong>在大四</strong>，用它来向世界展示你的积累和才华</li>
+</ul>
+</blockquote>
+<p>希望四年后的作者能够如愿以偿。</p>
+<h2 id="聊聊别的学习内容"><a href="#聊聊别的学习内容" class="headerlink" title="聊聊别的学习内容"></a>聊聊别的学习内容</h2><p>看到的另一个文章 <a href="https://www.zhihu.com/question/1933963833963153250/answer/2053494471933928479?utm_psn=2095296846289807015">如何规划</a></p>
+]]></content>
+      <categories>
+        <category>随笔</category>
+      </categories>
+      <tags>
+        <tag>github</tag>
+        <tag>大一</tag>
+        <tag>计算机</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>你好，01纪元</title>
+    <url>/blog/2026/10/16/%E6%88%91%E7%9A%84%E7%AC%AC%E4%B8%80%E7%AF%87%E5%8D%9A%E5%AE%A2/</url>
+    <content><![CDATA[<blockquote>
+<p>记录每一次 debug，迎接每一次 dawn。</p>
+</blockquote>
+<p>这是 <strong>dawn的01纪元</strong> 的第一篇文章。开篇就写点实在的：这个博客是怎么搭的，以及之后怎么写。</p>
+<h2 id="这个博客是怎么来的"><a href="#这个博客是怎么来的" class="headerlink" title="这个博客是怎么来的"></a>这个博客是怎么来的</h2><p>技术栈很朴素：</p>
+<table>
+<thead>
+<tr>
+<th>部分</th>
+<th>用了什么</th>
+</tr>
+</thead>
+<tbody><tr>
+<td>静态站点框架</td>
+<td>Hexo 8</td>
+</tr>
+<tr>
+<td>主题</td>
+<td>Butterfly 5.7</td>
+</tr>
+<tr>
+<td>托管</td>
+<td>GitHub Pages</td>
+</tr>
+<tr>
+<td>写作格式</td>
+<td>Markdown</td>
+</tr>
+</tbody></table>
+<p>搭建过程中最折腾的不是 Hexo，而是<strong>网络</strong>：本机把 <code>github.com</code> 解析到了一个不可用的 IP（DNS 污染），命令行和 GitHub Desktop 都连不上，只有浏览器能开。最后的解法是给 git 指定可用 IP，再用 OAuth 设备码完成授权。</p>
+<h2 id="以后怎么写文章"><a href="#以后怎么写文章" class="headerlink" title="以后怎么写文章"></a>以后怎么写文章</h2><p>三步：</p>
+<figure class="highlight bash"><table><tr><td class="code"><pre><span class="line"><span class="built_in">cd</span> ~/Documents/deepseek-harness/default-workspace/blog   <span class="comment"># 进入博客目录</span></span><br><span class="line">npx hexo new <span class="string">&quot;文章标题&quot;</span>                                   <span class="comment"># 1. 新建文章</span></span><br><span class="line"><span class="comment">#                                                        2. 用编辑器写 Markdown</span></span><br><span class="line">./deploy.sh                                              <span class="comment"># 3. 一键发布</span></span><br></pre></td></tr></table></figure>
+
+<p>文章文件会生成在 <code>source/_posts/</code> 目录下，用任何 Markdown 编辑器（VS Code、Typora、Obsidian 都行）打开就能写。</p>
+<h2 id="Markdown-常用语法速查"><a href="#Markdown-常用语法速查" class="headerlink" title="Markdown 常用语法速查"></a>Markdown 常用语法速查</h2><p><strong>加粗</strong>、<em>斜体</em>、<code>行内代码</code>、<a href="https://hexo.io/">链接</a>。</p>
+<p>有序列表：</p>
+<ol>
+<li>第一步</li>
+<li>第二步</li>
+<li>第三步</li>
+</ol>
+<p>无序列表：</p>
+<ul>
+<li>苹果</li>
+<li>香蕉</li>
+<li>橘子</li>
+</ul>
+<p>代码块（写语言名会有高亮）：</p>
+<figure class="highlight python"><table><tr><td class="code"><pre><span class="line"><span class="keyword">def</span> <span class="title function_">greet</span>(<span class="params">name: <span class="built_in">str</span></span>) -&gt; <span class="built_in">str</span>:</span><br><span class="line">    <span class="keyword">return</span> <span class="string">f&quot;Hello, <span class="subst">&#123;name&#125;</span>!&quot;</span></span><br><span class="line"></span><br><span class="line"><span class="built_in">print</span>(greet(<span class="string">&quot;dawn&quot;</span>))</span><br></pre></td></tr></table></figure>
+
+<p>引用：</p>
+<blockquote>
+<p>先让它跑起来，再让它跑得漂亮。</p>
+</blockquote>
+<h2 id="一个踩坑提醒"><a href="#一个踩坑提醒" class="headerlink" title="一个踩坑提醒"></a>一个踩坑提醒</h2><p>文章开头 <code>---</code> 包起来的部分叫 <strong>front-matter</strong>，用来填标题、日期、标签、分类。注意两点：</p>
+<ol>
+<li>冒号后面<strong>要有一个空格</strong>，<code>title: 你好</code> 是对的，<code>title:你好</code> 会报错</li>
+<li>标签写成列表形式：</li>
+</ol>
+<figure class="highlight yaml"><table><tr><td class="code"><pre><span class="line"><span class="attr">tags:</span></span><br><span class="line">  <span class="bullet">-</span> <span class="string">Hexo</span></span><br><span class="line">  <span class="bullet">-</span> <span class="string">开始</span></span><br></pre></td></tr></table></figure>
+
+<h2 id="接下来"><a href="#接下来" class="headerlink" title="接下来"></a>接下来</h2><p>这个站点还会继续折腾：评论系统、自定义域名、更多的文章。</p>
+<p>第一篇就到这里，祝自己写得长久 🌱</p>
+]]></content>
+      <categories>
+        <category>随笔</category>
+      </categories>
+      <tags>
+        <tag>Hexo</tag>
+        <tag>开始</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>第二天：中式教育碰上素质教育，还有 AI</title>
+    <url>/blog/2026/10/20/day2-education-and-ai/</url>
+    <content><![CDATA[<h2 id="中式教育碰上素质教育"><a href="#中式教育碰上素质教育" class="headerlink" title="中式教育碰上素质教育"></a>中式教育碰上素质教育</h2><p>今天上了第一次外教课，老师是一位非常有活力的西班牙人，所以哪怕早八困的不行也让我坚持完成了两节课的学习（虽然好像没学啥）。第一次的课程内容主要是让我们自行讨论三个问题——<em>why do we study English? what kind of English do we need to learn? how can we study English?</em>——并收集十个同学的回答做成表格，再做出饼状图。所有人的第一反应好像都是掏出手机，打开ai，直接照搬（这个我们放在下一个话题里面聊聊）。收集到的结果是怎样的呢？我估计大家也都能猜到。为啥学？学习英语就是为了应对考试，为了增强竞争力，为了有更好的就业。学啥？技术英语，科学英语，应试英语。咋学？做题。作者从小到大最讨厌的就是英语，天天要我记忆背诵，记得初中某老师为了彰显自己的个人能力，一张卷子中好几个题目的正确选项说是考的熟词生义，谁tm从牛津大词典那个词语第9个意思开始考啊？整的一帮子学生（包括作者）真的跑去背tm的词典。后来作者看开了，每次看到这种题直接byebye，虽然被指责说不上进，但我觉得我的脑细胞至少没白死。记得之前作者出国玩，去了5个国家，发现哪怕是作者的爹那种完全不懂英语的人都可以点饭，甚至还跟人家还价，还能在酒店维权和别人吵架，感觉学的那些语法什么的也没那么重要了。其实很多学科都是很有意思的，英语的历史也很厚重，假如我只是因为喜欢听英文歌，喜欢看音乐剧，喜欢英国文学或影视作品，我想我会学的很开心。但短时间的被迫输入，将历史的厚重挤压成一本乏味枯燥的小册子，怎能让人不排斥？还有数理化，为了应试，学生只学会了做题，没有途径去探索本质，甚至有的老师只会讲题（还讲的都是错的），没有热爱的驱动，18年不曾有过探索的经历，哪怕到了大学有机会探索，也会无从下手。就像作者，学数分和高代，把书看了一遍发现好像看懂了但不会做题，下一步就是买了一堆书回来，想靠刷题解决，笑死根本找不到很好的题，网课也找不到很合适的。我的自学就是不跟学校老师，跟网课老师，然后自主刷题，真让我独自去思考什么原理，证明什么定力啥的，不会也不想会。这种情况一直到我在翻知乎的时候发现理解数学原理对写代码的帮助很大，我才开始慢慢转变态度，改变学习策略。</p>
+<h2 id="聊聊-AI"><a href="#聊聊-AI" class="headerlink" title="聊聊 AI"></a>聊聊 AI</h2><p>现在的ai实在是太厉害了，无论是codex还是deepseekharness，我觉得可以帮我解决几乎所有的事情。我只需要批准批准，回车回车，一个项目就可以完成了。反正就是有啥问题一股脑丢给ai干。但越是这样越让我隐隐担忧，ai啥都能帮我干，我就啥都抛给他干，然后我啥也搞不清白。我能清晰的感觉到我的进步变得很微小，技能上面也退化了不少。今天我的舍友还在说觉得以后找不到工作因为会被ai替代。我也觉得如果只是一个码农，被替代是必然的。那我们应该怎么才能避免被替代？怎样才能利用好ai呢？我觉得作为一个新手小白，ai的身份应该是一位一对一老师，一步一步教，我们跟着一步一步学。后面假如作为一个大佬，那他就是我的秘书，帮我把那些没啥技术含量的玩意都干了，我是他的绝对master。但现在的状况多是通过ai完成一项任务，就像是让优等生帮差生完成作业一样。当然，我没觉得追求更好的成果和借助外力是不对的，我只是担心，这个差生一直是差生。太晚了，睡觉了。</p>
+]]></content>
+      <categories>
+        <category>随笔</category>
+      </categories>
+      <tags>
+        <tag>教育</tag>
+        <tag>英语</tag>
+        <tag>AI</tag>
+      </tags>
+  </entry>
+</search>
